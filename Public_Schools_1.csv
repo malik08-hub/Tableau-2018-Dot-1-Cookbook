@@ -1,6 +1,6 @@
 OBJECTID_1	OBJECTID	BLDG_ID	BLDG_NAME	ADDRESS	CITY	ZIPCODE	CSP_SCH_ID	SCH_ID	SCH_NAME	SCH_LABEL	SCH_TYPE	SHARED	COMPLEX	Label	TLT	PL	POINT_X	POINT_Y
 1	1	1	Guild Bldg	195 Leyden Street	East Boston	2128	4061	4061	Guild Elementary	Guild	ES	 	 	52	3	Grace	790128.1527	2967094.378
-2	2	3	"Kennedy, P Bldg"	343 Saratoga Street	East Boston	2128	4541	4541	Kennedy Patrick Elem	PJ Kennedy	ES	 	 	72	3	Grace	783027.7458	2963317.534
+2	2	3	Kennedy, P Bldg	343 Saratoga Street	East Boston	2128	4541	4541	Kennedy Patrick Elem	PJ Kennedy	ES	 	 	72	3	Grace	783027.7458	2963317.534
 3	3	4	Otis Bldg	218 Marion Street	East Boston	2128	4322	4322	Otis Elementary	Otis	ES	 	 	106	3	Grace	782112.8239	2962122.057
 4	4	6	Odonnell Bldg	33 Trenton Street	East Boston	2128	4543	4543	O'Donnell Elementary	O'Donnell	ES	 	 	103	3	Grace	780994	2963140
 5	5	7	East Boston High Bldg	86 White Street	East Boston	2128	1070	1070	East Boston High	East Boston HS	HS	 	 	36	2	Joel	781823	2964190
